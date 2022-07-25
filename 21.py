@@ -3,7 +3,7 @@
 #goal:
 """reverse the first two letters of the text and print it, do the same with the
 first three letters of the previous result and print it. this loop has to go on
-untill there is no letters left of the given text which hasn't been reversed"""
+until there is no letters left of the given text which hasn't been reversed"""
 
 def pancake_scramble(text):
 
