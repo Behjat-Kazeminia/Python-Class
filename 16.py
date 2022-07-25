@@ -4,7 +4,7 @@
 
 def extract_increasing(number):
 
-    """this variable was createtd to add the remaining elements of the given
+    """this variable was created to add the remaining elements of the given
     number from left to right to it until the variable is bigger than the
     last item of the increasing_list_of_numbers and it can be added to the list"""
     new_number = ''
