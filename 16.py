@@ -1,6 +1,6 @@
 # input: a positive integer(number)
 # output: list of numbers (increasing_list_of_numbers)
-# goal: split the gienv integer from left to right to a increasing list of numbers
+# goal: split the given integer from left to right to a increasing list of numbers
 
 def extract_increasing(number):
 
